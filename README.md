@@ -1,35 +1,7 @@
+Secure-Password-Generator
+Purpose Of Assignment
+The purpose of this assignment is to generate safe and reliable passwords for your own personal use, whether you have access to top-secret files or just want to keep your account safe, this generator is the tool you have been looking for. You have five options to chose from when creating this password starting with how many characters, then to decide between upper/lower case letters, numbers, and special characters. It will give you a password for your needs not mine so choose what feels best for you.
 
-    #README.md
+Sample Video
+https://youtu.be/aiV1-sf-uo8
 
-    [Github license](https://img.shields.io/badge/license-Many different ones.-blue.svg)
-
-    ##Descripton
-
-    undefined
-
-    ## Table of Contents
-    NPM I
-
-    [useage](#usage)
-    
-* [License](#license)
-
-
-     ##Title
-    README.md
-
-    ##Installation
-    NPM I
-
-    ##Usage
-    Type node index.js in terminal then hit enter.
-
-    ##Link to video
-    Will post here later. 
-
-    ##Githut Username
-    https://github.com/RubenCastroCoding
-
-    ##Email Address
-    RubenCastroCoding@gmail.com
-    
