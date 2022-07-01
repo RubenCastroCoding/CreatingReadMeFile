@@ -4,9 +4,6 @@ This application allows a user to generate a README file from user input's in No
 ### video walkthrough 
 https://youtu.be/aiV1-sf-uo8
 
-### Screenshot
-
-
 ### Description
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
